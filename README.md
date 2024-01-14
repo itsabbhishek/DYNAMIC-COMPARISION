@@ -1,4 +1,4 @@
-# DYNAMIC COMPARISION USING EXCEL
+# DYNAMIC COMPARISON USING EXCEL
 >>	Developed a dynamic stock market data comparison tool in Microsoft Excel, analyzing the performance of
  >> HCL Tech. & Infosys over a one-year period.
 >>
